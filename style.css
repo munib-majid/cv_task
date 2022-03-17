@@ -1,0 +1,51 @@
+#bigDiv {
+  background-color: whitesmoke;
+  margin: 50px;
+}
+#mainInfo {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
+  border-bottom: 2px solid black;
+}
+#mainText {
+  margin-left: 10%;
+  width: 70%;
+}
+#mainPhoto {
+  margin-right: 5%;
+}
+#email {
+  border-left: 2px solid black;
+  color: blue;
+}
+ul {
+  list-style-type: none;
+}
+#bottomDiv {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
+  padding: 40px;
+}
+#bLeftDiv {
+  border-right: 2px solid black;
+  width: 20%;
+  padding-left: 7%;
+  padding-right: 2%;
+}
+li {
+  margin-top: 7px;
+}
+.borderdown {
+  border-bottom: 2px solid black;
+}
+.borderdown1 {
+  border-bottom: 2px solid black;
+  margin: 20px;
+  padding-bottom: 10px;
+}
+#bRightDiv {
+  padding-left: 3%;
+  padding-right: 5%;
+}
